@@ -144,8 +144,3 @@ as a cleanup tool
 We get a much cleaner project history. No unnecessary merge commits! We end up with a linear project history.
 
 https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1
-
-
-![image](https://user-images.githubusercontent.com/48900898/137590241-7d699db8-3506-4f1a-8da0-455ca212107d.png)
-
-
